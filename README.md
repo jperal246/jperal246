@@ -10,9 +10,9 @@
 
 ## 🍓 About Me
 
-I'm Jackie Perales, a Computer Science student (AI/ML concentration, Business minor) at St. Edward's University in Austin, Class of 2027. I love building things that solve real problems for real people, with a soft spot for fashion, computer vision, and agentic AI.
+I'm Jackie Perales, a Computer Science student (AI/ML concentration, Business minor) at St. Edward's University in Austin. I love building things that solve real problems for real people, with a soft spot for music, fashion, computer vision, and agentic AI.
 
-Most recently I was a Software Engineering Intern at Salesforce, where I built and shipped a production Claude-powered agent that autonomously triages support tickets. I'm also a Break Through Tech AI fellow, an MLT fellow, Vice President of Women in Tech at St. Edward's, and a Resident Advisor who is slightly too into door decs.
+Most recently I was a Software Engineering Intern at Salesforce, where I built and shipped a production Claude-powered agent that autonomously triages support tickets. I'm also a Break Through Tech AI fellow, an MLT fellow, Vice President of Women in Tech at St. Edward's, and a Resident Assistant.
 
 I'm a first-gen Mexican American who cares a lot about making tech a place where more people like me feel at home. Thanks for stopping by 🌸
 
@@ -89,9 +89,9 @@ I'm a first-gen Mexican American who cares a lot about making tech a place where
 
 ## 💌 Things I Love
 
-- Fashion and styling (yes, Dresscode started as a personal problem)
-- Photography, live music, and exploring Austin and San Francisco
-- Over-planning trips in Notion, complete with maps
+- Fashion and styling
+- Photography, live music, and exploring cities
+- Over-planning in Notion
 - Puzzles and reading. Always taking book recs
 - Cheering on women and first-gen students in tech
 
