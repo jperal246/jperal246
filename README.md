@@ -107,6 +107,6 @@ Women in Tech Club at St. Edward's 🍵 Vice President
 
 <a href="https://www.linkedin.com/in/jacqueline-perales246/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fjacqueline--perales246-4A6644?style=flat-square&logo=linkedin&logoColor=F6F1E7" alt="LinkedIn"/></a>
 <a href="mailto:jackieperales2006@icloud.com"><img src="https://img.shields.io/badge/Email-jackieperales2006%40icloud.com-C66F80?style=flat-square&logo=icloud&logoColor=F6F1E7" alt="Email"/></a>
-<a href="[YOUR_CARRD_URL](https://jacqueline-perales.carrd.co)"><img src="https://img.shields.io/badge/Portfolio-jackie's%20site-9FAA74?style=flat-square&logo=carrd&logoColor=F6F1E7" alt="Portfolio"/></a>
+<a href="https://jacqueline-perales.carrd.co/"><img src="https://img.shields.io/badge/Portfolio-jackie's%20site-9FAA74?style=flat-square&logo=carrd&logoColor=F6F1E7" alt="Portfolio"/></a>
 
 <p align="center"><sub>made with matcha, strawberries, and a little too much pixel art 🍓🍵</sub></p>
