@@ -87,6 +87,14 @@ I'm a first-gen Mexican American who cares a lot about making tech a place where
 
 - Built a full-stack website for a local church tutoring program in collaboration with Duke University students, serving 30+ families and tutors.
 
+🌼 Fellowships & Communities
+<p> <img src="https://img.shields.io/badge/Break%20Through%20Tech%20AI-Cornell%20Tech%20Fellow-9FAA74?style=for-the-badge&labelColor=4A6644" alt="Break Through Tech AI, Cornell Tech Fellow"/> <img src="https://img.shields.io/badge/MLT-Career%20Prep%20Fellow-C66F80?style=for-the-badge&labelColor=9E4F60" alt="Management Leadership for Tomorrow Fellow"/> <img src="https://img.shields.io/badge/Basta-Code2Career%20Google%20SWE%20Fellow-9FAA74?style=for-the-badge&labelColor=4A6644" alt="Basta Code2Career Google SWE Fellow"/> <img src="https://img.shields.io/badge/AWS-Reachback%20Cohort-C66F80?style=for-the-badge&labelColor=9E4F60" alt="AWS Reachback Cohort"/> <img src="https://img.shields.io/badge/Dell%20Technologies-GenAI%20Foundations-9FAA74?style=for-the-badge&labelColor=4A6644" alt="Dell GenAI Foundations Program"/> <img src="https://img.shields.io/badge/CodePath-TIP%20102-C66F80?style=for-the-badge&labelColor=9E4F60" alt="CodePath TIP 102"/> </p> <p> <img src="https://img.shields.io/badge/Rewriting%20the%20Code-F4C7D0?style=flat-square&logoColor=9E4F60" alt="Rewriting the Code"/> <img src="https://img.shields.io/badge/ColorStack-D7DAB3?style=flat-square" alt="ColorStack"/> <img src="https://img.shields.io/badge/Latinas%20in%20Tech-F4C7D0?style=flat-square" alt="Latinas in Tech"/> <img src="https://img.shields.io/badge/SHPE-D7DAB3?style=flat-square" alt="Society of Hispanic Professional Engineers"/> <img src="https://img.shields.io/badge/Society%20of%20Women%20Engineers-F4C7D0?style=flat-square" alt="Society of Women Engineers"/> <img src="https://img.shields.io/badge/Women%20in%20Tech%20%40%20St.%20Edward's-VP-D7DAB3?style=flat-square&labelColor=9FAA74" alt="Women in Tech Club, Vice President"/> </p>
+Break Through Tech AI (Cornell Tech) 🍵 one of 1,000 fellows selected from 4,000+ applicants; currently on the Accenture contract-review AI Studio project
+Management Leadership for Tomorrow (MLT) 🍓 Career Prep fellow
+Basta Code2Career 🍵 Fall 2026 cohort, mentored by Google software engineers
+Rewriting the Code, ColorStack, Latinas in Tech, SHPE, SWE 🍓 the communities that keep me going
+Women in Tech Club at St. Edward's 🍵 Vice President
+
 ## 💌 Things I Love
 
 - Fashion and styling
@@ -99,6 +107,6 @@ I'm a first-gen Mexican American who cares a lot about making tech a place where
 
 <a href="https://www.linkedin.com/in/jacqueline-perales246/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fjacqueline--perales246-4A6644?style=flat-square&logo=linkedin&logoColor=F6F1E7" alt="LinkedIn"/></a>
 <a href="mailto:jackieperales2006@icloud.com"><img src="https://img.shields.io/badge/Email-jackieperales2006%40icloud.com-C66F80?style=flat-square&logo=icloud&logoColor=F6F1E7" alt="Email"/></a>
-<a href="YOUR_CARRD_URL"><img src="https://img.shields.io/badge/Portfolio-jackie's%20site-9FAA74?style=flat-square&logo=carrd&logoColor=F6F1E7" alt="Portfolio"/></a>
+<a href="[YOUR_CARRD_URL](https://jacqueline-perales.carrd.co)"><img src="https://img.shields.io/badge/Portfolio-jackie's%20site-9FAA74?style=flat-square&logo=carrd&logoColor=F6F1E7" alt="Portfolio"/></a>
 
 <p align="center"><sub>made with matcha, strawberries, and a little too much pixel art 🍓🍵</sub></p>
